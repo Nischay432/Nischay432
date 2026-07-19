@@ -61,21 +61,15 @@ I'm passionate about writing clean code, building reusable UI systems and contin
 
 ## 📌 Featured Projects
 
-### 🌐 Personal Portfolio *(Coming Soon)*
+### 🏁 Maze Rush — [Play live](https://maze-rush.nischay432.workers.dev) · [Code](https://github.com/Nischay432/maze-rush)
 
-A modern developer portfolio showcasing my experience, projects and technical journey.
-
----
-
-### 🚀 Full Stack Project *(Coming Soon)*
-
-A production-inspired application built with modern frontend architecture and scalable development practices.
+Real-time multiplayer maze race with a fog-of-war twist: everyone is visible for the first five seconds, then you run blind while finishers spectate live. Server-authoritative game state on Cloudflare Workers + Durable Objects, native WebSockets, React with canvas rendering. Fully responsive with drag-to-steer touch controls, installable as a web app.
 
 ---
 
-### 🎓 Nexttract LMS
+### 🎓 Nextract LMS — [Live demo](https://nextract-lms.vercel.app) · [Code](https://github.com/Nischay432/Nextract_LMS)
 
-A full-stack Learning Management System featuring authentication, role-based access, dashboards and responsive UI.
+Full-stack Learning Management System: course authoring with drag-and-drop chapters, video lessons with progress tracking, purchases and a revenue dashboard. Next.js 15 App Router, Clerk authentication, Prisma + PostgreSQL, Stripe checkout with a free-enrollment demo mode.
 
 ---
 
