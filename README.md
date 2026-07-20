@@ -8,6 +8,10 @@ Frontend Engineer passionate about building scalable, high-performance web appli
 Building products with React, Next.js, TypeScript & React Native.
 </p>
 
+<p align="center">
+<a href="https://portfolio.nischay432.workers.dev"><b>portfolio.nischay432.workers.dev</b></a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -86,6 +90,7 @@ Full-stack Learning Management System: course authoring with drag-and-drop chapt
 
 ## 📫 Connect With Me
 
+- 🌐 Portfolio: https://portfolio.nischay432.workers.dev
 - 💼 LinkedIn: https://linkedin.com/in/nischay-prasher
 - 📧 Email: nischayprasherngh123@gmail.com
 
