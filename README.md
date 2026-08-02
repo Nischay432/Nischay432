@@ -9,7 +9,7 @@ Building products with React, Next.js, TypeScript & React Native.
 </p>
 
 <p align="center">
-<a href="https://portfolio.nischay432.workers.dev"><b>portfolio.nischay432.workers.dev</b></a>
+<a href="https://tinygridlabs.com"><b>tinygridlabs.com</b></a>
 </p>
 
 ---
@@ -65,7 +65,7 @@ I'm passionate about writing clean code, building reusable UI systems and contin
 
 ## 📌 Featured Projects
 
-### 🏁 Maze Rush — [Play live](https://maze-rush.nischay432.workers.dev) · [Code](https://github.com/Nischay432/maze-rush)
+### 🏁 Maze Rush — [Play live](https://maze.tinygridlabs.com) · [Code](https://github.com/Nischay432/maze-rush)
 
 Real-time multiplayer maze race with a fog-of-war twist: everyone is visible for the first five seconds, then you run blind while finishers spectate live. Server-authoritative game state on Cloudflare Workers + Durable Objects, native WebSockets, React with canvas rendering. Fully responsive with drag-to-steer touch controls, installable as a web app.
 
@@ -90,7 +90,7 @@ Full-stack Learning Management System: course authoring with drag-and-drop chapt
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://portfolio.nischay432.workers.dev
+- 🌐 Portfolio: https://tinygridlabs.com
 - 💼 LinkedIn: https://linkedin.com/in/nischay-prasher
 - 📧 Email: nischayprasherngh123@gmail.com
 
